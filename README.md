@@ -1,4 +1,7 @@
 # Ray Tracer
+
+<img src="./img.png" alt="assignments" width="200"/>
+
 ## Description
 This project is an implementation of a simple ray tracer using linear algebra to derive the formulas.
 The project allows to add speheres to the scene, and choose their position size, colour and material properties.
@@ -38,7 +41,3 @@ You also need to choose the values of ambient, diffuse and specular parameters, 
 
 The resulting image will be saved to the directory where the raytracer.py file is stored as def.ppm.
 To change the resolution of the image change the *WIDTH* and *HEIGHT* parameters in the code.
-
-Below follows an example of the resulting image!
-
-<img src="./img.png" alt="assignments" width="200"/>
