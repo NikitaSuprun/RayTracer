@@ -40,4 +40,5 @@ The resulting image will be saved to the directory where the raytracer.py file i
 To change the resolution of the image change the *WIDTH* and *HEIGHT* parameters in the code.
 
 Below follows an example of the resulting image!
-<img src="./img.png" alt="assignments" width="400"/>
+
+<img src="./img.png" alt="assignments" width="200"/>
